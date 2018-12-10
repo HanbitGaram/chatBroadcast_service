@@ -1,0 +1,4 @@
+"scripts": {
+    "start": "index.js"
+    , "stop": "pkill --signal SIGINT multilang"
+}
