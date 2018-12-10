@@ -1,2 +1,2 @@
 #!/bin/sh
-pm2 start index.js
+pm2 start --name "broadcast_node_connect" ./index.js

@@ -1,2 +1,2 @@
 #!/bin/sh
-pm2 stop index.js
+pm2 stop 'broadcast_node_connect'
